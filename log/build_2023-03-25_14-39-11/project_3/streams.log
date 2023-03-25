@@ -1,0 +1,17 @@
+[1.237s] Invoking command in '/home/vboxuser/ros2_group_ws/build/project_3': PYTHONPATH=/home/vboxuser/ros2_group_ws/build/project_3/prefix_override:/home/vboxuser/ros2_group_ws/install/project_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/vboxuser/ros2_group_ws/build/project_3/build --no-deps install_data
+[1.774s] running develop
+[2.060s] running egg_info
+[2.060s] writing project_3.egg-info/PKG-INFO
+[2.062s] writing dependency_links to project_3.egg-info/dependency_links.txt
+[2.062s] writing entry points to project_3.egg-info/entry_points.txt
+[2.062s] writing requirements to project_3.egg-info/requires.txt
+[2.063s] writing top-level names to project_3.egg-info/top_level.txt
+[2.065s] reading manifest file 'project_3.egg-info/SOURCES.txt'
+[2.067s] writing manifest file 'project_3.egg-info/SOURCES.txt'
+[2.069s] running build_ext
+[2.069s] Creating /home/vboxuser/ros2_group_ws/install/project_3/lib/python3.10/site-packages/project-3.egg-link (link to .)
+[2.070s] Installing test_node script to /home/vboxuser/ros2_group_ws/install/project_3/lib/project_3
+[2.070s] 
+[2.070s] Installed /home/vboxuser/ros2_group_ws/build/project_3
+[2.070s] running install_data
+[2.121s] Invoked command in '/home/vboxuser/ros2_group_ws/build/project_3' returned '0': PYTHONPATH=/home/vboxuser/ros2_group_ws/build/project_3/prefix_override:/home/vboxuser/ros2_group_ws/install/project_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/vboxuser/ros2_group_ws/build/project_3/build --no-deps install_data

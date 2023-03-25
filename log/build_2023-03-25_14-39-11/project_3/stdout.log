@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing project_3.egg-info/PKG-INFO
+writing dependency_links to project_3.egg-info/dependency_links.txt
+writing entry points to project_3.egg-info/entry_points.txt
+writing requirements to project_3.egg-info/requires.txt
+writing top-level names to project_3.egg-info/top_level.txt
+reading manifest file 'project_3.egg-info/SOURCES.txt'
+writing manifest file 'project_3.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vboxuser/ros2_group_ws/install/project_3/lib/python3.10/site-packages/project-3.egg-link (link to .)
+Installing test_node script to /home/vboxuser/ros2_group_ws/install/project_3/lib/project_3
+
+Installed /home/vboxuser/ros2_group_ws/build/project_3
+running install_data

@@ -1,0 +1,33 @@
+[8.823s] Invoking command in '/home/vboxuser/ros2_group_ws/src/project_3': PYTHONPATH=/home/vboxuser/ros2_group_ws/build/project_3/prefix_override:/home/vboxuser/ros2_group_ws/install/project_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_3 build --build-base /home/vboxuser/ros2_group_ws/build/project_3/build install --record /home/vboxuser/ros2_group_ws/build/project_3/install.log --single-version-externally-managed
+[10.751s] running egg_info
+[10.767s] creating ../../build/project_3/project_3.egg-info
+[10.768s] writing ../../build/project_3/project_3.egg-info/PKG-INFO
+[10.768s] writing dependency_links to ../../build/project_3/project_3.egg-info/dependency_links.txt
+[10.778s] writing entry points to ../../build/project_3/project_3.egg-info/entry_points.txt
+[10.779s] writing requirements to ../../build/project_3/project_3.egg-info/requires.txt
+[10.804s] writing top-level names to ../../build/project_3/project_3.egg-info/top_level.txt
+[10.805s] writing manifest file '../../build/project_3/project_3.egg-info/SOURCES.txt'
+[10.805s] reading manifest file '../../build/project_3/project_3.egg-info/SOURCES.txt'
+[10.805s] writing manifest file '../../build/project_3/project_3.egg-info/SOURCES.txt'
+[10.805s] running build
+[10.805s] running build_py
+[10.805s] creating /home/vboxuser/ros2_group_ws/build/project_3/build
+[10.806s] creating /home/vboxuser/ros2_group_ws/build/project_3/build/lib
+[10.806s] creating /home/vboxuser/ros2_group_ws/build/project_3/build/lib/project_3
+[10.806s] copying project_3/__init__.py -> /home/vboxuser/ros2_group_ws/build/project_3/build/lib/project_3
+[10.807s] running install
+[10.807s] running install_lib
+[10.808s] creating /home/vboxuser/ros2_group_ws/install/project_3/lib/python3.10/site-packages/project_3
+[10.808s] copying /home/vboxuser/ros2_group_ws/build/project_3/build/lib/project_3/__init__.py -> /home/vboxuser/ros2_group_ws/install/project_3/lib/python3.10/site-packages/project_3
+[10.808s] byte-compiling /home/vboxuser/ros2_group_ws/install/project_3/lib/python3.10/site-packages/project_3/__init__.py to __init__.cpython-310.pyc
+[10.809s] running install_data
+[10.809s] creating /home/vboxuser/ros2_group_ws/install/project_3/share/ament_index
+[10.809s] creating /home/vboxuser/ros2_group_ws/install/project_3/share/ament_index/resource_index
+[10.809s] creating /home/vboxuser/ros2_group_ws/install/project_3/share/ament_index/resource_index/packages
+[10.837s] copying resource/project_3 -> /home/vboxuser/ros2_group_ws/install/project_3/share/ament_index/resource_index/packages
+[10.839s] copying package.xml -> /home/vboxuser/ros2_group_ws/install/project_3/share/project_3
+[10.843s] running install_egg_info
+[10.844s] Copying ../../build/project_3/project_3.egg-info to /home/vboxuser/ros2_group_ws/install/project_3/lib/python3.10/site-packages/project_3-0.0.0-py3.10.egg-info
+[10.845s] running install_scripts
+[10.984s] writing list of installed files to '/home/vboxuser/ros2_group_ws/build/project_3/install.log'
+[11.274s] Invoked command in '/home/vboxuser/ros2_group_ws/src/project_3' returned '0': PYTHONPATH=/home/vboxuser/ros2_group_ws/build/project_3/prefix_override:/home/vboxuser/ros2_group_ws/install/project_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_3 build --build-base /home/vboxuser/ros2_group_ws/build/project_3/build install --record /home/vboxuser/ros2_group_ws/build/project_3/install.log --single-version-externally-managed
